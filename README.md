@@ -7,35 +7,6 @@ Godmod — przenośne, niskokosztowe urządzenie do pozyskiwania, konfiguracji i
 
 
 
----
-
-Spis treści
-
-Czym jest Godmod
-
-Najważniejsze cechy
-
-Sprzęt (rekomendowany)
-
-Oprogramowanie i komponenty
-
-Ustawienia kamery dostępne w GUI
-
-Zasada działania (flow danych)
-
-Quickstart (szybki start)
-
-Przykładowe zastosowania
-
-Schemat połączeń (ASCII)
-
-Debug / troubleshooting
-
-Contributing
-
-Licencja
-
-Kontakt
 
 
 
